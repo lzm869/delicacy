@@ -7,6 +7,9 @@ npm run dev
 项目截图：
 首页
 ![image](https://github.com/lzm869/delicacy/assets/171211373/322a28b7-909e-4325-9c1d-cbcbc53ae001)
+详情页：
+![image](https://github.com/lzm869/delicacy/assets/171211373/9839dc47-eef1-4510-a1d3-31ac95d60f37)
+
 搜索功能
 ![image](https://github.com/lzm869/delicacy/assets/171211373/30fea5af-2216-497e-8371-29334b85ff19)
 ![image](https://github.com/lzm869/delicacy/assets/171211373/80317495-3621-445f-a63c-aae4c583f4c5)
