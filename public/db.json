@@ -1,0 +1,171 @@
+{
+  "Dishes": [
+    {
+      "id": 1,
+      "title": "云吞",
+      "url": "https://s2.loli.net/2024/06/02/yJuX69tQwG3bze1.jpg",
+      "lable":"中式料理，轻食"
+    },
+    {
+      "id": 2,
+      "title": "白切鸡",
+      "url": "https://s2.loli.net/2024/06/02/HnCoLFNvXuOpbgy.webp",
+      "lable":"中式料理，家常菜，清淡"
+    },
+    {
+      "id": 3,
+      "title": "馒头",
+      "url": "https://s2.loli.net/2024/06/02/MrIlp6UoydNOixY.webp",
+      "lable":"主食，清淡，早餐"
+    },
+    {
+        "id": 4,
+        "title": "叉烧肉",
+        "url": "https://s2.loli.net/2024/06/02/7UKmTQciJgr9nLC.webp",
+        "lable":"主食，清淡，早餐"
+      },
+      {
+        "id": 5,
+        "title": "汉堡肉",
+        "url": "https://s2.loli.net/2024/06/02/AjbM1IkTD4Jis3Z.jpg",
+        "lable":"高热量，西餐"
+      },
+      {
+        "id": 6,
+        "title": "卤蛋",
+        "url": "https://s2.loli.net/2024/06/02/Nw38xRjrVLd5nH9.jpg",
+        "lable":"早餐，卤食"
+      },
+      {
+        "id": 7,
+        "title": "惠灵顿牛排",
+        "url": "https://s2.loli.net/2024/06/02/AphjgTO7lXzaMB6.jpg",
+        "lable":"西餐，高级料理"
+      },
+      {
+        "id": 8,
+        "title": "广西螺蛳粉",
+        "url": "https://s2.loli.net/2024/06/02/HuZQAxbUcDIY5lG.jpg",
+        "lable":"地方特色，面食"
+      },
+      {
+        "id": 9,
+        "title": "麻婆豆腐",
+        "url": "https://s2.loli.net/2024/06/02/vXOSQDnh1GReBUE.webp",
+        "lable":"中式料理，辣，豆类食品"
+      },
+      {
+        "id": 10,
+        "title": "萝卜鸭",
+        "url": "https://s2.loli.net/2024/06/02/ztU6pnGdMLacSlj.png",
+        "lable":"中式料理，家常菜，重油"
+      },
+      {
+        "id": 11,
+        "title": "芒果蛋糕",
+        "url": "https://s2.loli.net/2024/06/02/APSKRVMtnCb6chy.webp",
+        "lable":"西式糕点，水果，蛋糕"
+      },
+      {
+        "id": 13,
+        "title": "柠檬水",
+        "url": "https://s2.loli.net/2024/06/02/BPyF7wTNCLMeo2S.webp",
+        "lable":"解暑，饮料"
+      },
+      {
+        "id": 14,
+        "title": "蛋挞",
+        "url": "https://s2.loli.net/2024/06/02/Pakp9gdAGzVKUIf.webp",
+        "lable":"西式糕点，蛋"
+      },
+      {
+        "id": 15,
+        "title": "柠檬手撕鸡",
+        "url": "https://s2.loli.net/2024/06/02/kJ3Zo9KRs5wjxMu.webp",
+        "lable":"中式料理，家常菜，清爽"
+      },
+      {
+        "id": 16,
+        "title": "蒜末炒油麦菜",
+        "url": "https://s2.loli.net/2024/06/02/HMpCKYnoghSrfPG.jpg",
+        "lable":"中式料理，家常菜，清淡"
+      },
+      {
+        "id": 17,
+        "title": "青椒炒肉",
+        "url": "https://s2.loli.net/2024/06/02/MQVItUKzdnEuAhi.webp",
+        "lable":"中式料理，辣"
+      },
+      {
+        "id": 18,
+        "title": "皮蛋瘦肉粥",
+        "url": "https://s2.loli.net/2024/06/02/MtnduXKZbLvwxYq.jpg",
+        "lable":"，早餐，粥，主食，清淡"
+      },
+      {
+        "id": 19,
+        "title": "炸薯条",
+        "url": "https://s2.loli.net/2024/06/02/pvOPJaBItAoWEMz.jpg>",
+        "lable":"重油，西式快餐"
+      },
+      {
+        "id": 20,
+        "title": "猪脚饭",
+        "url": "https://s2.loli.net/2024/06/02/XhLxADVuaNqOs6E.jpg",
+        "lable":"中式料理，重油"
+      },
+      {
+        "id": 21,
+        "title": "炸鸡块",
+        "url": "https://s2.loli.net/2024/06/02/5CdMSPcNKYEWLUX.webp",
+        "lable":"西式快餐，重油"
+      },
+      {
+        "id": 22,
+        "title": "猪杂粥",
+        "url": "https://s2.loli.net/2024/06/02/ZI9rjpSJPU1dMhB.jpg",
+        "lable":"，早餐，粥，主食，清淡"
+      },
+      {
+        "id": 23,
+        "title": "小酥肉",
+        "url": "https://s2.loli.net/2024/06/02/Z1dBCFnIsEHL62o.jpg",
+        "lable":"中式料理，家常菜，重油"
+      },
+      {
+        "id": 24,
+        "title": "爆炒猪头皮",
+        "url": "https://s2.loli.net/2024/06/02/ZyOkw1z3rAqFMm6.jpg",
+        "lable":"中式料理，微辣，家常菜"
+      },
+      {
+        "id": 25,
+        "title": "土豆炖肉",
+        "url": "https://s2.loli.net/2024/06/02/jeG45EkvcVPDJYi.webp",
+        "lable":"中式料理，家常菜，重油"
+      },
+      {
+        "id": 26,
+        "title": "扬州炒饭",
+        "url": "https://s2.loli.net/2024/06/02/NWTB7bmDIZhgHYM.png",
+        "lable":"中国料理，非遗"
+      }
+  ],
+  "infomation2": [
+    {
+      "id": 1,
+      "title": "jjl1",
+      "desc": "fda"
+    },
+    {
+      "id": 2,
+      "title": "jjl2",
+      "desc": "fda"
+    },
+    {
+      "id": 3,
+      "title": "jjl3",
+      "desc": "fda"
+    }
+  ]
+}
