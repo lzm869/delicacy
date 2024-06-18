@@ -1,10 +1,30 @@
 这是基于vue3+vite开发的一个关于美食的系统主要技术栈有vue3+vue-router+axios+vuex+vite+elementpuls
+
+
+
+
+
+
+
+
+
+
 部署：
 npm install
+
+
 npm run mock
+
+
 npm run dev
+
+
 此项目只完成了部分功能还有左导航栏和右导航栏个人中心上传数据等多个功能没有实现，后续还会对该项目进行维护更新，先在此记录一下
+
+
 项目截图：
+
+
 首页
 ![image](https://github.com/lzm869/delicacy/assets/171211373/322a28b7-909e-4325-9c1d-cbcbc53ae001)
 详情页：
